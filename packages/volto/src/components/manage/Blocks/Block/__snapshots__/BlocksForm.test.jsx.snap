@@ -49,9 +49,7 @@ exports[`Allow override of blocksConfig 1`] = `
                 tabindex="-1"
               >
                 <div>
-                  a
-                   - 
-                  a
+                  Unknown Block custom
                 </div>
               </div>
               <button
@@ -103,9 +101,7 @@ exports[`Allow override of blocksConfig 1`] = `
                 tabindex="-1"
               >
                 <div>
-                  b
-                   - 
-                  b
+                  Unknown Block custom
                 </div>
               </div>
             </div>
